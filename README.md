@@ -1,6 +1,6 @@
 ## 👋, Hi, I'm Mosfiqur Rahman
 ##  I am Web Developer
-![ I am Web Developer](https://scontent.fdac189-1.fna.fbcdn.net/v/t39.30808-6/474492907_1650669582195047_5423391666531830756_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGw1tXfp8kS8pXtmdTQ7Ug6nTkPdA3BMGWdOQ90DcEwZXe8cda0ZDDMOlzree3rRfE1DdoJK4pLjz_OXfk7TYoQ&_nc_ohc=ezP568f5O_sQ7kNvwFOtNLG&_nc_oc=Admxf7GlEyCdQOb50WE3vp2NYoP0RC4_iBaXEkflpKu3v9uotmy3qZ6dS1EKWONH2s4&_nc_zt=23&_nc_ht=scontent.fdac189-1.fna&_nc_gid=YDtAUYMdU8oRIbbsgF4nUw&oh=00_AfZbxNgAXkjzlAbK29Ve_j7vtZuxA1civZr655A5eQK6fw&oe=68DF1B40)
+7&_nc_sid=cc71e4&_nc_eui2=AeGw1tXfp8kS8pXtmdTQ7Ug6nTkPdA3BMGWdOQ90DcEwZXe8cda0ZDDMOlzree3rRfE1DdoJK4pLjz_OXfk7TYoQ&_nc_ohc=ezP568f5O_sQ7kNvwFOtNLG&_nc_oc=Admxf7GlEyCdQOb50WE3vp2NYoP0RC4_iBaXEkflpKu3v9uotmy3qZ6dS1EKWONH2s4&_nc_zt=23&_nc_ht=scontent.fdac189-1.fna&_nc_gid=YDtAUYMdU8oRIbbsgF4nUw&oh=00_AfZbxNgAXkjzlAbK29Ve_j7vtZuxA1civZr655A5eQK6fw&oe=68DF1B40)
 I am a Computer Science Engineering Student Deeply passionate about Frontend development, aspiring to embark on a fulfilling journey as a Full Stack Web Developer. Proficient in HTML, CSS,Bootstrap,Tailwind CSS,JavaScript, React ,Redux,Next.js,Node.js,Express.js,Mysql,Mongodb,ongoose
 I leverage these technologies to craft visually stunning and intuitive user interfaces.
 
